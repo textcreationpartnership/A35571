@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Not popery, but the Protestant religion the support of the crown. Confirmed out of the mouth of that blessed martyr King Charles I. of pious memory. With other of his sayings and instructions concerning both religion and government, worthy to be seriously considered by all Protestants.</title>
+            <author>Charles I, King of England, 1600-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35571</idno>
+            <idno type="STC">Wing C82</idno>
+            <idno type="STC">ESTC R1051</idno>
+            <idno type="EEBO-CITATION">12241641</idno>
+            <idno type="OCLC">ocm 12241641</idno>
+            <idno type="VID">56792</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35571)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56792)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 910:13 or 1791:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Not popery, but the Protestant religion the support of the crown. Confirmed out of the mouth of that blessed martyr King Charles I. of pious memory. With other of his sayings and instructions concerning both religion and government, worthy to be seriously considered by all Protestants.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Item at reel 910:13 identified as Wing C82 (number cancelled).</note>
+                  <note>Reproduction of original in Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Protestantism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:56792:1" rendition="simple:additions"/>
+            <head>NOT POPERY, BUT THE Proteſtant Religion The Support of the CROWN. Confirmed out of the
+Mouth of that Bleſſed Mar<g ref="char:EOLhyphen"/>tyr King <hi>CHARLES</hi> I. of Pious Memory.</head>
+            <head type="sub">With other of his Saying and Inſtructions concerning both <hi>Religion</hi> and
+<hi>Government,</hi> worthy to be ſeriouſly conſi<g ref="char:EOLhyphen"/>dered by all <hi>PROTESTANTS.</hi>
+            </head>
+            <p>IF the Soul of the Bleſſed Martyr, from his Manſion of Bliſs and Glory, could look down
+and behold a part of himſelf embra<g ref="char:EOLhyphen"/>cing a Religion ſo much averſe to his Royal Judgment, and
+Pi<g ref="char:EOLhyphen"/>ous Mind, and ſo contradictory to what he profeſſed and laid his Life down for; and which
+truly entitles him to Martyrdom, it could not but wonder at leaſt, if not grieve (might ſuch
+Paſſion be admitted to Celeſtial Spirits) to behold the danger of introducing a Religion into
+theſe Proteſtant Kingdoms, that will infallibly over<g ref="char:EOLhyphen"/>throw that Church and Government he ſo
+highly prized; and in ef<g ref="char:EOLhyphen"/>fect, make him an Heretick, in dying for a falſe Religion: But we doubt
+not, as that Holy Royal Martyr is employed in more beatifick Viſions, and ſees not what in his
+Life time he would ſcarce ever have believed from any Prophet or Oracle: He is not concerned with
+our Troubles; yet we think it not unneceſſary, that this Holy Martyr's Words ſhould never be
+forgotten, or ſleep in oblivion, who was ſo great and zealous an Aſſertor of the
+Proteſtant Cauſe; and that they may even ſtare thoſe in the Face that are moſt concerned,
+and appear before them in moſt indelible Characters, never to be blotted out of the Memories of
+all Proteſtants; and whoſe Judgment therein ought to be moſt ſacred, e<g ref="char:EOLhyphen"/>ſpecially to his
+own Iſſue, ſince his Sacred Life was laid down, and his Royal Blood ſhed for that Cauſe
+which is almoſt now abandoned and forſáken; and which depends only on the Life of our
+now Sacred So<g ref="char:EOLhyphen"/>vereign, whom the God of Heaven preſerve for the Peace of theſe Na<g ref="char:EOLhyphen"/>tions.
+<hi>Amen.</hi>
+            </p>
+            <p>In his late Majeſty's Speech to both Houſes, on <hi>Feb.</hi> the <hi>3d.</hi> 1640. about
+the Papiſts, he ſays, <hi>I take in good part your Care of the true Re<g ref="char:EOLhyphen"/>ligion eſtabliſhed
+in this Kingdom, from which I will never depart— It is againſt my mind, that Popery or
+Superſtition ſhould any way increaſe
+<pb n="2" facs="tcp:56792:2"/>within this Kingdom, and I will reſtrain the ſame
+by cauſing the Laws to be put in Exe<g ref="char:EOLhyphen"/>cution. I am reſolved to provide againſt Jeſuites
+and</hi> Papiſts, <hi>by ſetting forth a Proclama<g ref="char:EOLhyphen"/>tion with all ſpeed to command them to
+depart the Kingdom within one moneth, of which if they fail, or ſhall return, then they ſhall
+be proceeded againſt according to the Laws.</hi>
+            </p>
+            <p>Likewiſe in his Speech to the Knights, Gentry and Freeholders of the County of
+<hi>Lincoln</hi> at <hi>Lincoln, July</hi> 15. 1642. He thus expreſſes himſelf, <hi>I
+aſſure you upon the Faith and Honour of a Chriſtian King, I will be always tender of any
+thing that may advance the true</hi> Proteſtant Religion, &amp;c. this Bleſſed Martyr mock'd
+not at the word True Proteſtant, it is his, though now ridicul'd, Here mark his Solemn
+Proteſta<g ref="char:EOLhyphen"/>tion made at the Head of his Army, <hi>Sept.</hi> 19. 1642. <hi>I do promiſe in the
+preſence of Almighty God, and as I hope for his bleſſing and protection, that I will to the
+utmoſt of my power, defend and maintain the</hi> True Reformed Proteſtant Religion,
+<hi>eſtabliſhed in the Church of</hi> England, <hi>and by the Grace of God in the ſame will
+live and die. I deſire to govern by the known Laws of the Land, and that the Liberty and Property
+of the Subject, may be by them preſerved with the ſame care as my own juſt Rights,</hi>
+&amp;c. <hi>And I do ſo<g ref="char:EOLhyphen"/>lemnly and faithfully promiſe in the ſight of God, to maintain the
+juſt Priviledges and freedom of Parliament, and to govern by the known Laws of the Land,</hi>
+&amp;c. And again, in his Speech to the Lords and Commons at <hi>Oxford,</hi> Apr. 26. 1644. He
+hath theſe words towards the cloſe of his Speech— <hi>And be aſſured that there is no
+profeſſi<g ref="char:EOLhyphen"/>on which I have made for the defence and maintenance of out Religion, Laws and
+Liber<g ref="char:EOLhyphen"/>ties, which I will not inviolably obſerve.</hi>
+            </p>
+            <p>But his Proteſtation made at <hi>Chriſt Church</hi> in <hi>Oxford</hi> 1643 juſt before
+his receiving the holy <hi>Euchariſt,</hi> for being then about to receive the Sacrament at the
+hands of the Lord Archbiſhop of <hi>Armagh,</hi> riſing up from his Knees, and beckning to the
+Arch<g ref="char:EOLhyphen"/>biſhop to forbear a little, he made this Solemn Proteſtation which ought never to be
+forgot,</p>
+            <p>
+               <hi>My Lord, I eſpy here many reſolved</hi> Proteſtants, <hi>who may declare to the World
+the re<g ref="char:EOLhyphen"/>ſolution I now make. I have to the utmoſt of my power prepared my Soul to become a
+wor<g ref="char:EOLhyphen"/>thy receiver, and may I ſo receive comfort by the Bleſſed Sacrament, as I do intend the
+Eſtablſh<g ref="char:EOLhyphen"/>ment of the truly Reformed</hi> Proteſtant Religion, <hi>as it ſtood in its Beauty
+in the happy days of Queen</hi> Elizabeth, <hi>without any connivance at</hi> Popery, <hi>and may
+this Sacrament be my Damnation, if my Heart, does not joyn with my Lips in this
+Proteſtation.</hi>
+            </p>
+            <p>And yet there were thoſe who would have this King a <hi>Papiſt,</hi> but hey were only
+ſuch of themſelves, as endeavoured to make him odious to his People, and as a Prieſt lately
+in <hi>Ireland,</hi> who brag'd that our now Sovereign was of the <hi>Romiſh</hi> Religion, for
+which he was fined 200 <abbr>
+                  <hi>l.</hi>
+               </abbr> at the Aſſizes, and lyes in Gaol to this day.
+But by this Proteſtation the World may judge how far this good King was from endur<g ref="char:EOLhyphen"/>ing the
+<hi>Romiſh</hi> Religion in his Kingdom.</p>
+            <p>And again in his Letter to the Judges to be Publiſhed in their Circuits, <hi>July</hi> 4.
+1642. He gives them a Charge, <hi>That they take care by all the beſt means to ſuppreſs</hi>
+Po<g ref="char:EOLhyphen"/>pery <hi>in all the Counties, by putting the Laws againſt them in Execution,</hi> &amp;c. And
+fur<g ref="char:EOLhyphen"/>ther bids them aſſure his good Subjects on the Word of a King, who called God to Witneſs,
+<hi>That He was reſolved with Gods aſſiſtance conſtantly to maintain the</hi> True
+Proteſtant <hi>Religion,</hi> &amp;c.</p>
+            <p>In his private Letters to the Queen, with whom he would not diſſemble, he tells her in
+ſeveral places, that he will never quit his Religion, but remain conſtant to the maintaining
+Epiſcopacy.</p>
+            <p>In his Inſtructions to his Commiſſions for the Treaty at <hi>
+                  <g ref="char:V">Ʋ</g>xbridge,</hi> He declares
+to them, <hi>That be cannot yield to change the Government of the Church, being bound thereto by
+His Coronation Oath, and that they muſt do nothing to change or leſſen the dependency
+<pb n="3" facs="tcp:56792:2"/>of the Clergy on the Crown entirely, without which it
+will ſcarce ſit faſt upon the Kings Head:</hi> So that <hi>Popery</hi> abſolutely
+overthrows this, when the Clergy depends on the <hi>Pope</hi> altogether, and nothing on the
+Crown.</p>
+            <p>How well alſo His Late Majeſty argued for <hi>Epiſcopacy</hi> as the only true Religion,
+and moſt agreeable to the Word of God, may be ſeen by His Learned Papers which we ſhall not
+mention, and as he lived ſo he dyed, in the ſame Conſtancy of aſſerting ad maintaining of
+the ſame <hi>Proteſtant</hi> Religion; for being on the Scaffold, and about to ſeal to his
+laſt words with his bloud, He ſays, <hi>My Conſcience in Religion is very well known to all
+the World, and therefore I declare before you all, That I die a Chriſtian according to the
+Profeſſion of the Church of</hi> England, <hi>as I found it left to me by my Father,</hi>
+&amp;c.</p>
+            <p>In his firſt Paper to Mr. <hi>Hindrrſon</hi> He declares how he was by his Father King
+<hi>James,</hi> whom none could call in queſtion in the particular of Religion, brought up in the
+right Religion (not <hi>Popery,</hi> mark that) and that he had laid in him the grounds of
+Chriſtianity, in which he had continued to that day, and that nothing made him reverence the
+Church of <hi>England</hi> more than that its Reformation was effect<g ref="char:EOLhyphen"/>ed neither with Multitude or
+with Tumult, but legally and orderly, and by ſuch who had only the Reforming Power.</p>
+            <p>And as he had been well inſtructed and ſettled in the True <hi>Proteſtant</hi> Religion
+him<g ref="char:EOLhyphen"/>ſelf, ſo he endeavoured to inſtruct and fix his Children, as the Relation under the Lady
+<hi>Elizabeths</hi> own hand teſtifies, being ſome of his laſt words to her, to ground her
+againſt <hi>Popery,</hi> recommending to her reading for that end, Biſhop <hi>Andrews</hi>'s
+Sermons, <hi>Hooker</hi>'s Eccleſiaſtical Policy, and Biſhop <hi>Laud</hi>'s Book againſt
+<hi>Fiſher.</hi> And thus he inſtructed his Son our now Dread Sovereign, in his <hi>Icon
+Baſilicon: Above all,</hi> ſays he, <hi>I would have you well grounded and ſettled in your
+Religion, that of the Church of</hi> England, <hi>in which you have been educated,</hi> &amp;c. And
+again, <hi>I charge you to perſevere in it as coming neareſt to Gods Word for Doctrine, and to
+the Primitive Exam<g ref="char:EOLhyphen"/>ples for Govèrnment,</hi> &amp;c. And a little after, <hi>Your Fixation
+in matters of Religion will not be more neceſſary for your Souls than your Kingdoms Peace, when
+God ſhall bring you to them.</hi> And in the ſame Advice laid down to his Son, he proceeds
+after this manner— <hi>If you never ſee my Face again, I require and entreat you, as your
+Fa<g ref="char:EOLhyphen"/>ther and your King, that you never ſuffer your heart to receive the leaſt check againſt,
+or diſſatisfaction from the true Religion, eſtabliſhed in the Church of</hi> England, <hi>I
+tell you I have try'd it, and after much ſearch, and many diſputes, have concluded it to be the
+beſt in the World,</hi> &amp;c.</p>
+            <p>And not only as to Religion did this Bleſſed King and Martyr give inſtructions to the
+Prince his Son, now our Sovereign; but alſo in other matters of Government, worthy to be Recorded
+in Letter of Gold, and which no doubt are fixed deeply in His Majeſties Memory, and will not be
+forgotten by him; among the many others he adviſes him and ſays, <hi>Never repoſe ſo much
+upon any Mans ſingle Councel, Fidelity and Diſcretion, in managing Affairs of the firſt
+Magnitude (that is matters of Religi<g ref="char:EOLhyphen"/>on and Juſtice) as to create in your ſelf, or others a
+diffidence of the Judgment, which is likely to be always more Conſtant and Impartial to the
+Intereſts of your Crown and King<g ref="char:EOLhyphen"/>dom than any mans. Next, beware of exaſperating any Factions,
+by the croſneſs and aſpe<g ref="char:EOLhyphen"/>rity of ſome mens Paſſions, Humors, or private Opinions,
+imployed by you, grounded only vpon the differences in leſſer matters, which are but the Skirts
+and Suburbs of Religion. Wherein a charitable connivance, and Chriſtian Toleration, often
+diſſipates their ſtrength, whom rougher oppoſition fortifies, and puts the deſpiſed and
+oppreſſed Party into ſuch Com<g ref="char:EOLhyphen"/>binations as may moſt enable them to get a full Revenge on
+thoſe they count their Perſecu<g ref="char:EOLhyphen"/>tors, who are commonly aſſiſted by that vulgar
+Commiſeration which attends all that are ſaid to ſuffer under the Notion of Religion. Always
+keep up ſolid Piety, and thoſe Funda<g ref="char:EOLhyphen"/>mental Truths, which mend both hearts and Lives of Men
+with impartial favour and Ju<g ref="char:EOLhyphen"/>ſtice. Take heed that the outward Circumſtances and Formalities of
+Religion devour not all,
+<pb n="4" facs="tcp:56792:3"/>or the beſt encouragements of Learning, Induſtry
+and Piety, but with an equal eye and im<g ref="char:EOLhyphen"/>partial hand, diſtribute favours and rewards to all men,
+as you find them for their real good<g ref="char:EOLhyphen"/>neſs, both in abilities and fidelity, worthy and capable of
+them. This will be ſure to gain you the hearts of the beſt, and the moſt too, who though they
+be not good themſelves, yet are glad to ſee the ſeverer ways of Virtue, at any time,
+ſweetned by Temporal Rewards. I would not have you to entertain any averſation or diſlike of
+Parliaments: which in their right Conſtitution with Freedom and Honour, will never injure or
+diminiſh your Greatneſs, but will rather be as interchangings of Love, Loyalty and Confidence
+between a Prince and his People.</hi>
+            </p>
+            <p>Thus we ſee on what Pious Foundations of both Religion and Juſtice, this King built his
+Policies; the <hi>Proteſtant Religion</hi> he eſteemed his Glory, and the Prop of the
+<hi>Engliſh</hi> Crown; Parliaments, the Peoples Love, Liberties and Properties, he eſteemed
+his Chief Support; and a wrong to them an injury to his own Right. <hi>Popery</hi> he held
+abſolutely inconſiſtent with the Conſtitution of this Realm, and no doubt did never nxpect,
+that one out of his Loines, who was Martyr'd for the <hi>Proteſtant</hi> Cauſe, and the Church
+of <hi>England,</hi> ſhould ever declare for the Church of <hi>Rome,</hi> be a Pro<g ref="char:EOLhyphen"/>feſſor of
+it, and give hopes to the <hi>Papiſts</hi> of ſetting up their Authority and Domini<g ref="char:EOLhyphen"/>ons in
+theſe Kingdoms.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>L. C.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
